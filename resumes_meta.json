@@ -1,0 +1,243 @@
+[
+    {
+        "name": "Shweta Gaikwad",
+        "role": "Machine Learning and Software Development Student",
+        "skills": [
+            "Python",
+            "Java",
+            "C++",
+            "HTML",
+            "CSS",
+            "Machine Learning",
+            "Scikit-learn",
+            "XGBoost",
+            "LightGBM",
+            "CatBoost",
+            "Pandas",
+            "NumPy",
+            "Data Analysis",
+            "Streamlit",
+            "SQLite",
+            "Git",
+            "Google Colab"
+        ],
+        "summary": "Computer Science Engineering student with experience in machine learning, diabetes prediction using ensemble learning, semantic search, web development, software engineering projects, and data analysis. Presented research work at an international conference and developed predictive analytics systems."
+    },
+    {
+        "name": "Aarav Sharma",
+        "role": "Python Backend Developer",
+        "skills": [
+            "Python",
+            "Django",
+            "REST API",
+            "SQL",
+            "Git"
+        ],
+        "summary": "Backend developer experienced in APIs, databases, and Python web applications."
+    },
+    {
+        "name": "Priya Nair",
+        "role": "HR Executive",
+        "skills": [
+            "Recruitment",
+            "Payroll",
+            "Onboarding",
+            "Employee Engagement"
+        ],
+        "summary": "HR professional with experience in hiring and employee management."
+    },
+    {
+        "name": "Rohan Mehta",
+        "role": "Data Analyst",
+        "skills": [
+            "Excel",
+            "SQL",
+            "Power BI",
+            "Python"
+        ],
+        "summary": "Data analyst skilled in reporting, dashboards, and business insights."
+    },
+    {
+        "name": "Sneha Kulkarni",
+        "role": "Machine Learning Intern",
+        "skills": [
+            "Python",
+            "Pandas",
+            "Scikit-learn",
+            "Machine Learning"
+        ],
+        "summary": "ML enthusiast with projects in classification and prediction."
+    },
+    {
+        "name": "Kabir Singh",
+        "role": "Frontend Developer",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "summary": "Frontend developer specializing in responsive web applications."
+    },
+    {
+        "name": "Ananya Rao",
+        "role": "Digital Marketing Executive",
+        "skills": [
+            "SEO",
+            "Google Ads",
+            "Analytics",
+            "Content Marketing"
+        ],
+        "summary": "Digital marketing professional focused on SEO and campaign management."
+    },
+    {
+        "name": "Vikram Joshi",
+        "role": "Java Developer",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "MySQL",
+            "REST API"
+        ],
+        "summary": "Java developer experienced in enterprise applications."
+    },
+    {
+        "name": "Meera Iyer",
+        "role": "UI UX Designer",
+        "skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping",
+            "User Research"
+        ],
+        "summary": "Designer focused on user-centered interfaces and prototypes."
+    },
+    {
+        "name": "Aditya Patil",
+        "role": "Cloud Support Engineer",
+        "skills": [
+            "AWS",
+            "Linux",
+            "Docker",
+            "Networking"
+        ],
+        "summary": "Cloud engineer experienced in AWS infrastructure and support."
+    },
+    {
+        "name": "Neha Verma",
+        "role": "Content Writer",
+        "skills": [
+            "SEO Writing",
+            "Blog Writing",
+            "Editing"
+        ],
+        "summary": "Professional content writer specializing in digital media."
+    },
+    {
+        "name": "Ishaan Kapoor",
+        "role": "Cybersecurity Analyst",
+        "skills": [
+            "Network Security",
+            "SIEM",
+            "Linux",
+            "Vulnerability Assessment"
+        ],
+        "summary": "Cybersecurity analyst experienced in monitoring and security assessments."
+    },
+    {
+        "name": "Pooja Deshmukh",
+        "role": "Accountant",
+        "skills": [
+            "Tally",
+            "GST",
+            "Bookkeeping",
+            "Tax Filing"
+        ],
+        "summary": "Accountant experienced in taxation and financial records."
+    },
+    {
+        "name": "Arjun Reddy",
+        "role": "DevOps Engineer",
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "CI/CD"
+        ],
+        "summary": "DevOps engineer experienced in deployment pipelines and cloud systems."
+    },
+    {
+        "name": "Sara Khan",
+        "role": "Customer Support Executive",
+        "skills": [
+            "CRM",
+            "Communication",
+            "Problem Solving"
+        ],
+        "summary": "Customer support professional with strong communication skills."
+    },
+    {
+        "name": "Yash Jain",
+        "role": "Mobile App Developer",
+        "skills": [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "REST API"
+        ],
+        "summary": "Mobile developer experienced in cross-platform applications."
+    },
+    {
+        "name": "Tanya Roy",
+        "role": "Business Analyst",
+        "skills": [
+            "Requirement Gathering",
+            "Documentation",
+            "Excel"
+        ],
+        "summary": "Business analyst skilled in stakeholder communication and documentation."
+    },
+    {
+        "name": "Nikhil Bansal",
+        "role": "Database Administrator",
+        "skills": [
+            "MySQL",
+            "PostgreSQL",
+            "Backup",
+            "Query Optimization"
+        ],
+        "summary": "Database administrator experienced in tuning and maintenance."
+    },
+    {
+        "name": "Divya Menon",
+        "role": "Graphic Designer",
+        "skills": [
+            "Photoshop",
+            "Illustrator",
+            "Canva",
+            "Branding"
+        ],
+        "summary": "Graphic designer specializing in branding and digital content."
+    },
+    {
+        "name": "Harsh Gupta",
+        "role": "Full Stack Developer",
+        "skills": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Express"
+        ],
+        "summary": "Full stack developer experienced in MERN applications."
+    },
+    {
+        "name": "Kavya Pillai",
+        "role": "Operations Executive",
+        "skills": [
+            "Operations Management",
+            "Reporting",
+            "Vendor Coordination"
+        ],
+        "summary": "Operations executive experienced in process management and reporting."
+    }
+]
