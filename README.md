@@ -58,3 +58,25 @@ Machine Learning and Software Development Student
 Traditional keyword search relies on exact words.
 
 Semantic search uses embeddings and can identify relevant candidates even when different terminology is used in the resume and job description.
+
+## Project Workflow
+
+Resume Database
+        ↓
+Gemini Embeddings
+        ↓
+Vector Storage (NumPy)
+        ↓
+NumPy Semantic Search
+        ↓
+FAISS Vector Search
+        ↓
+Top-K Candidate Ranking
+
+## Author
+
+Shweta Gaikwad
+
+B.Tech Computer Science Engineering
+
+Machine Learning and Software Development Enthusiast
